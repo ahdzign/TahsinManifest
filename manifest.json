@@ -1,0 +1,38 @@
+{
+  "name": "Tahsin Online",
+  "short_name": "Tahsin Online",
+  "start_url": "https://www.tahsin.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang membahas seputar ilmu tajwid dan Terjemah Al Quran per kata, Sejarah Sahabat Nabi SAW, juga menerima pemasangan iklan.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-a45avzcSGzU/XUOUJIOj2DI/AAAAAAAADhE/DgxGmcNRKlgrB-BPQTXq-2Uw_gLXzvMowCLcBGAs/s48/Favicon%2BTahsin%2B1.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-a45avzcSGzU/XUOUJIOj2DI/AAAAAAAADhE/DgxGmcNRKlgrB-BPQTXq-2Uw_gLXzvMowCLcBGAs/s72/Favicon%2BTahsin%2B1.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-a45avzcSGzU/XUOUJIOj2DI/AAAAAAAADhE/DgxGmcNRKlgrB-BPQTXq-2Uw_gLXzvMowCLcBGAs/s96/Favicon%2BTahsin%2B1.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-a45avzcSGzU/XUOUJIOj2DI/AAAAAAAADhE/DgxGmcNRKlgrB-BPQTXq-2Uw_gLXzvMowCLcBGAs/s144/Favicon%2BTahsin%2B1.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-a45avzcSGzU/XUOUJIOj2DI/AAAAAAAADhE/DgxGmcNRKlgrB-BPQTXq-2Uw_gLXzvMowCLcBGAs/s168/Favicon%2BTahsin%2B1.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-a45avzcSGzU/XUOUJIOj2DI/AAAAAAAADhE/DgxGmcNRKlgrB-BPQTXq-2Uw_gLXzvMowCLcBGAs/s192/Favicon%2BTahsin%2B1.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-a45avzcSGzU/XUOUJIOj2DI/AAAAAAAADhE/DgxGmcNRKlgrB-BPQTXq-2Uw_gLXzvMowCLcBGAs/s512/Favicon%2BTahsin%2B1.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
